@@ -1,2 +1,2 @@
-# anotacoes
+# Links
 Repositório destinado a anotações.
